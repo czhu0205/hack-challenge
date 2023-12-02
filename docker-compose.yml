@@ -1,0 +1,7 @@
+version: "3"
+
+services:
+  demo: 
+    image: "czhu0205/hack_challenge"
+    ports:
+      - "80:8000"
